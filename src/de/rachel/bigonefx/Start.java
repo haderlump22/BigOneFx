@@ -1,4 +1,4 @@
-package de.rachel.bigone;
+package de.rachel.bigonefx;
 
 import javafx.application.Application;
 import javafx.event.ActionEvent;
